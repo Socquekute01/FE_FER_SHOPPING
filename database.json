@@ -1,0 +1,155 @@
+{
+  "brands": [
+    {
+      "id": "1",
+      "name": "Apple"
+    },
+    {
+      "id": "2",
+      "name": "Samsung"
+    },
+    {
+      "id": "3",
+      "name": "Panasonic"
+    },
+    {
+      "id": "4",
+      "name": "Electolux"
+    }
+  ],
+  "status": [
+    {
+      "id": "1",
+      "name": "In stocks"
+    },
+    {
+      "id": "2",
+      "name": "Out stocks"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Phone 15 Pro Max 256GB",
+      "brands": 1,
+      "status": 1,
+      "price": 29690000,
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-Nxgjw66tCrXAuqxM2lMo8WkJoF49J9jZQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6q5xrA8zlAP-5Oqs_nnmq52aTYtZ9rmEHARWiMibIWu5Quk9YZF3-h435xQD7c9Q6Ufs&usqp=CAU",
+        "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-pro-max_12_.png",
+        "https://i.guim.co.uk/img/media/18badfc0b64b09f917fd14bbe47d73fd92feeb27/189_335_5080_3048/master/5080.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=1562112c7a64da36ae0a5e75075a0d12"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "MacBook Air 13 inch M1 2020",
+      "brands": 1,
+      "status": 1,
+      "price": 18590000,
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-Nxgjw66tCrXAuqxM2lMo8WkJoF49J9jZQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6q5xrA8zlAP-5Oqs_nnmq52aTYtZ9rmEHARWiMibIWu5Quk9YZF3-h435xQD7c9Q6Ufs&usqp=CAU",
+        "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-pro-max_12_.png",
+        "https://i.guim.co.uk/img/media/18badfc0b64b09f917fd14bbe47d73fd92feeb27/189_335_5080_3048/master/5080.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=1562112c7a64da36ae0a5e75075a0d12"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Samsung Galaxy Tab S6 Lite",
+      "brands": 2,
+      "status": 2,
+      "price": 6990000,
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-Nxgjw66tCrXAuqxM2lMo8WkJoF49J9jZQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6q5xrA8zlAP-5Oqs_nnmq52aTYtZ9rmEHARWiMibIWu5Quk9YZF3-h435xQD7c9Q6Ufs&usqp=CAU",
+        "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-pro-max_12_.png",
+        "https://i.guim.co.uk/img/media/18badfc0b64b09f917fd14bbe47d73fd92feeb27/189_335_5080_3048/master/5080.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=1562112c7a64da36ae0a5e75075a0d12"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Máy giặt tổng hợp Panasonic NA",
+      "brands": 3,
+      "status": 1,
+      "price": 13290000,
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-Nxgjw66tCrXAuqxM2lMo8WkJoF49J9jZQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6q5xrA8zlAP-5Oqs_nnmq52aTYtZ9rmEHARWiMibIWu5Quk9YZF3-h435xQD7c9Q6Ufs&usqp=CAU",
+        "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-pro-max_12_.png",
+        "https://i.guim.co.uk/img/media/18badfc0b64b09f917fd14bbe47d73fd92feeb27/189_335_5080_3048/master/5080.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=1562112c7a64da36ae0a5e75075a0d12"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Tủ lạnh Panasonic NR-YW590YMMV",
+      "brands": 3,
+      "status": 1,
+      "price": 57990000,
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-Nxgjw66tCrXAuqxM2lMo8WkJoF49J9jZQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6q5xrA8zlAP-5Oqs_nnmq52aTYtZ9rmEHARWiMibIWu5Quk9YZF3-h435xQD7c9Q6Ufs&usqp=CAU",
+        "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-pro-max_12_.png",
+        "https://i.guim.co.uk/img/media/18badfc0b64b09f917fd14bbe47d73fd92feeb27/189_335_5080_3048/master/5080.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=1562112c7a64da36ae0a5e75075a0d12"
+      ]
+    }
+  ],
+  "cart": [
+    {
+      "id": "1",
+      "name": "Phone 15 Pro Max 256GB",
+      "brands": 1,
+      "status": 1,
+      "price": 29690000,
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-Nxgjw66tCrXAuqxM2lMo8WkJoF49J9jZQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6q5xrA8zlAP-5Oqs_nnmq52aTYtZ9rmEHARWiMibIWu5Quk9YZF3-h435xQD7c9Q6Ufs&usqp=CAU",
+        "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-pro-max_12_.png",
+        "https://i.guim.co.uk/img/media/18badfc0b64b09f917fd14bbe47d73fd92feeb27/189_335_5080_3048/master/5080.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=1562112c7a64da36ae0a5e75075a0d12"
+      ],
+      "quantity": 9
+    },
+    {
+      "id": "2",
+      "name": "MacBook Air 13 inch M1 2020",
+      "brands": 1,
+      "status": 1,
+      "price": 18590000,
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-Nxgjw66tCrXAuqxM2lMo8WkJoF49J9jZQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6q5xrA8zlAP-5Oqs_nnmq52aTYtZ9rmEHARWiMibIWu5Quk9YZF3-h435xQD7c9Q6Ufs&usqp=CAU",
+        "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-pro-max_12_.png",
+        "https://i.guim.co.uk/img/media/18badfc0b64b09f917fd14bbe47d73fd92feeb27/189_335_5080_3048/master/5080.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=1562112c7a64da36ae0a5e75075a0d12"
+      ],
+      "quantity": 1
+    },
+    {
+      "id": "3",
+      "name": "Samsung Galaxy Tab S6 Lite",
+      "brands": 2,
+      "status": 2,
+      "price": 6990000,
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-Nxgjw66tCrXAuqxM2lMo8WkJoF49J9jZQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6q5xrA8zlAP-5Oqs_nnmq52aTYtZ9rmEHARWiMibIWu5Quk9YZF3-h435xQD7c9Q6Ufs&usqp=CAU",
+        "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-pro-max_12_.png",
+        "https://i.guim.co.uk/img/media/18badfc0b64b09f917fd14bbe47d73fd92feeb27/189_335_5080_3048/master/5080.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=1562112c7a64da36ae0a5e75075a0d12"
+      ],
+      "quantity": 1
+    },
+    {
+      "id": "4",
+      "name": "Máy giặt tổng hợp Panasonic NA",
+      "brands": 3,
+      "status": 1,
+      "price": 13290000,
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-Nxgjw66tCrXAuqxM2lMo8WkJoF49J9jZQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6q5xrA8zlAP-5Oqs_nnmq52aTYtZ9rmEHARWiMibIWu5Quk9YZF3-h435xQD7c9Q6Ufs&usqp=CAU",
+        "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-pro-max_12_.png",
+        "https://i.guim.co.uk/img/media/18badfc0b64b09f917fd14bbe47d73fd92feeb27/189_335_5080_3048/master/5080.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=1562112c7a64da36ae0a5e75075a0d12"
+      ],
+      "quantity": 1
+    }
+  ]
+}
